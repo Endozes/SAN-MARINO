@@ -1,0 +1,17 @@
+SAN MARINO - Investimento Imobiliario
+Site de uma pagina so: tudo (video, fotos, estilos e codigo) esta dentro do arquivo index.html.
+
+COMO VER NO CELULAR PELO GITHUB PAGES
+1. No github.com, clique em "New repository" e de um nome (ex.: san-marino). Deixe como Public.
+2. Clique em "uploading an existing file" e envie o arquivo index.html (descompacte o zip antes).
+3. Clique em "Commit changes".
+4. Va em Settings > Pages.
+5. Em "Build and deployment", escolha Source: "Deploy from a branch", Branch: "main" e pasta "/ (root)". Salve.
+6. Espere 1 a 2 minutos. O endereco aparece no topo da mesma tela:
+   https://SEU-USUARIO.github.io/san-marino/
+7. Abra esse endereco no celular.
+
+OBSERVACOES
+- O site precisa de internet para carregar as fontes (Google Fonts).
+- Para trocar textos, telefone, CRECI etc., edite o index.html (procure por [telefone], [CRECI], etc.).
+- Contato atual no rodape: sanmarinoimoveis2026@gmail.com
