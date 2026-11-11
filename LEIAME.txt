@@ -1,0 +1,20 @@
+SAN MARINO - Investimento Imobiliario
+
+CONTEUDO
+- index.html : o site (a pagina inteira, com as fotos do imovel dentro do arquivo)
+- video/hero-h.mp4 : video do topo para computador/tela deitada (1920x1080)
+- video/hero-v.mp4 : video do topo para celular em pe (1080x1920)
+- video/poster.jpg : imagem exibida enquanto o video carrega
+Envie a pasta "video" JUNTO com o index.html, mantendo o mesmo nome e lugar.
+
+COMO VER NO CELULAR PELO GITHUB PAGES
+1. No github.com, abra seu repositorio (ou crie um novo, Public).
+2. Clique em "Add file" > "Upload files".
+3. Arraste o index.html E a pasta video inteira (ou os 3 arquivos dentro de uma pasta chamada video).
+4. Clique em "Commit changes".
+5. Em Settings > Pages, confira: Deploy from a branch, branch main, pasta /(root).
+6. Espere 1 a 2 minutos e abra o endereco no celular. Se ainda aparecer o video antigo, limpe o cache ou abra em aba anonima.
+
+OBSERVACOES
+- O celular em pe usa o video vertical (mais nitido); computador usa o horizontal.
+- Contato no rodape: sanmarinoimoveis2026@gmail.com
