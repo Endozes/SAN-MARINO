@@ -1,0 +1,13 @@
+/* Tokens de design: único lugar onde cores, fontes e medidas são definidas */
+:root{
+  --bo:#490607; --bo-2:#5d0a0c; --bo-3:#2f0304;
+  --go:#dda02f; --go-soft:#f8ecd0;
+  --bg:#faf7f2; --sf:#ffffff;
+  --tx:#2a1a1a; --mu:#7a6566; --ln:#ece3d3;
+  --ok:#2f7d4f; --warn:#a86500; --err:#a02020;
+  --r:10px; --r-sm:6px;
+  --sh:0 1px 2px rgba(73,6,7,.06), 0 8px 20px rgba(73,6,7,.06);
+  --f-title:'Bodoni Moda',Georgia,serif;
+  --f-body:Figtree,system-ui,sans-serif;
+  --sb-w:264px; --top-h:64px;
+}

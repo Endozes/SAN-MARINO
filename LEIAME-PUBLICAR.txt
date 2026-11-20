@@ -1,0 +1,12 @@
+FASE 0 - COLOCAR NO AR (GitHub Pages)
+
+Envie para a RAIZ do repositorio SAN-MARINO (Add file > Upload files):
+  - index.html      (substitui o antigo: vitrine do banco, pagina do imovel, formulario de contato)
+  - admin.html      (substitui o atual)
+  - pasta admin     (nova: painel modular com Dashboard)
+NAO precisa reenviar: hero-h.mp4, hero-v.mp4, poster.jpg, LEIAME.txt.
+
+Depois de 1 a 2 minutos, confira:
+  https://endozes.github.io/SAN-MARINO/            -> a Casa de pedra deve aparecer na vitrine
+  https://endozes.github.io/SAN-MARINO/admin.html  -> painel atual (imoveis)
+  https://endozes.github.io/SAN-MARINO/admin/      -> painel novo (Dashboard)
